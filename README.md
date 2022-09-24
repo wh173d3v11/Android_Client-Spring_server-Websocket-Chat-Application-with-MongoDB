@@ -1,4 +1,4 @@
-#Simple Android Chat Application with Springboot,MongoDb 
+# Simple Android Chat Application with Springboot,MongoDb 
 
 Android Kotlin WebSocket Client and Spring Websocket Chat-Application with MongoDB integartion
 
@@ -11,6 +11,7 @@ by using a <a href="https://stomp.github.io/">STOMP</a> Protocol.
 # Simple Group Chat Application
 <h3>Android :</h3>
 Build using
+
 * Kotlin
 * MVVM
 * Hilt
@@ -20,8 +21,10 @@ Build using
 
 I used the <a href="https://github.com/NaikSoftware/StompProtocolAndroid">This STOMP Library</a> and updated some dependencies like RxJava to Latest version inorder to work properly.
 
-#Demo :
 
+# Demo :
+
+https://user-images.githubusercontent.com/46423041/192099073-af09f0f4-1c8f-4aaf-893d-b0668e6f1a2a.mp4
 
 
 <h3>Server :</h3>
@@ -39,7 +42,7 @@ from:
 ```
 http://localhost:8080/
 ```
-Reference : 
+<h4>Reference :</h4> 
 
 Server Spring Boot  - <a href="https://github.com/okanmenevseoglu/Spring-Websocket-Chat-Application-with-MongoDB">
 okanmenevseoglu</a>
