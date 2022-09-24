@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Chat Stomp Application</string>
+    <string name="txt_add_message">Add Message..</string>
+    <string name="enter_username">Enter UserName</string>
+    <string name="enter_friend_username">Enter Friend UserName</string>
+    <string name="connect">Connect</string>
+</resources>
